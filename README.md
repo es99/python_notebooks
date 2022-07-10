@@ -12,6 +12,6 @@ etc...
 - Adicionado projeto prático do capítulo de Dicionários do livro 'Automatize tarefas maçantes com Python'
   - projeto_pratico_dicionarios.py
 
-09/06/2022
+09/07/2022
 - Adicionado projeto 'Automatize tarefas maçantes com Python': Removendo o cabeçalho de arquivos CSV 
   - projeto1_csv.py
