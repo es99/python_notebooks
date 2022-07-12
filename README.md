@@ -22,3 +22,8 @@ etc...
   do script, onde a localização é capturada através do sysargv.
   - quickWeather.org
 - Adicionado notebook python_json.org que mostra exemplos do módujo json e seus métodos: json.loads(entrada: json, retorno: python) e json.dumps(entrada: python, retorno: json)
+
+11/07/2022
+- Terminado o estudo básico do módulo json (json.loads / json.dumps) no notebook python_json.ipynb
+  - Exemplo de arquivo json que poderá ser importado para scripts em python: pessoa.json
+- Iniciado estudos de erros, tratamentos de exceções e testes no notebook erros_testes_tratamentos.ipynb
