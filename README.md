@@ -27,3 +27,9 @@ etc...
 - Terminado o estudo básico do módulo json (json.loads / json.dumps) no notebook python_json.ipynb
   - Exemplo de arquivo json que poderá ser importado para scripts em python: pessoa.json
 - Iniciado estudos de erros, tratamentos de exceções e testes no notebook erros_testes_tratamentos.ipynb
+
+14/07/2022
+- Continuando estudos de debbuging no código, introdução a testes unitários (unittests), programação defensiva, raise, asserts (imperativos)
+  - script com introdução a unittest: test_operacoes.py
+  - operacoes.py pra ser usado como módulo na importação em test_operacoes.py
+  - operacoes.py contem diversas funções que simulam uma calculadora
