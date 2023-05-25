@@ -33,3 +33,11 @@ etc...
   - script com introdução a unittest: test_operacoes.py
   - operacoes.py pra ser usado como módulo na importação em test_operacoes.py
   - operacoes.py contem diversas funções que simulam uma calculadora
+
+25/05/2023 - args and kwargs
+
+*args e **kwargs permitem quem você passe um número variável de argumentos para uma função
+ - *arg: quando não se sabe de antemão quantos argumentos serão passados para a função, ou seja, é
+ passa um conjunto de argumentos de tamanho variáveis sem palavras-chave.
+ - **kwargs: Permite que se passe um comprimento variável de argumentos para uma função contendo palavras-chave.
+ Deve-se usar se deseja trabalhar com argumentos nomeados
