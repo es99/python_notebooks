@@ -41,3 +41,9 @@ etc...
  passa um conjunto de argumentos de tamanho variáveis sem palavras-chave.
  - **kwargs: Permite que se passe um comprimento variável de argumentos para uma função contendo palavras-chave.
  Deve-se usar se deseja trabalhar com argumentos nomeados
+
+27/05/2023 - Problemas para autenticar no repositorio remoto
+
+ - Criar uma chave pública no servidor, link explicativo: https://www.youtube.com/watch?v=tjZEplICR5g
+ - Se vc clonou o repo utilizando HTTPS, poderá então alterara pra SSH
+    - basta digitar "git config -e" e no editor alterar a linha correspondente ao HTTPS e colar a do SSH
